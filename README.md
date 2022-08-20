@@ -4,7 +4,7 @@ By inviting the bot and using its features (commands, Moderation) are you agreei
 
 You acknowledge that you have the priviledge to use the bot freely on any [Discord Server](https://discord.gg/nrop) you share with it, that you can invite it to any Server that you have "Manage Server" rights for and that this priviledge might get revoked for you, if you're subject of breaking the terms and/or policy of this bot, or the [Terms of Service](https://discord.com/terms), [Privacy Policy](https://discord.com/privacy) and/or [Community Guidelines](https://discord.com/guidelines) of [Discord Inc](https://discord.com/).
 
-Through Inviting the bot may it collect specific data as described in its [Policy](https://github.com/NotYourFenix/Terminal-Privacy-Policy/tree/main).
+Through Inviting the bot may it collect specific data as described in its [Policy](https://github.com/NotYourFenix/FlexCord-Privacy-Policy/blob/main/README.md).
 
 The intended usage of this data is for core functionalities of the bot such as command handling, guild-specific settings.
 
